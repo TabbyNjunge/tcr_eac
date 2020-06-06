@@ -1,0 +1,190 @@
+ISO3,Name,tci_rank
+AFG,Afghanistan,NA
+AGO,Angola,3.75
+ALB,Albania,4.78
+ARE,United Arab Emirates,7.29
+ARG,Argentina,3.67
+ARM,Armenia,6.22
+ATG,Antigua and Barbuda,5.14
+AUS,Australia,4.67
+AUT,Austria,5.44
+AZE,Azerbaijan,5.89
+BDI,Burundi,5
+BEL,Belgium,6.56
+BEN,Benin,5.13
+BFA,Burkina Faso,4.14
+BGD,Bangladesh,4.78
+BGR,Bulgaria,4.67
+BHR,Bahrain,8
+BHS,Bahamas,5.43
+BIH,Bosnia and Herzegovina,4.67
+BLR,Belarus,5
+BLZ,Belize,5.29
+BOL,Bolivia,4.67
+BRA,Brazil,3.44
+BRB,Barbados,5.17
+BRN,Brunei Darussalam,5.83
+BTN,Bhutan,4.5
+BWA,Botswana,NA
+CAF,Central African Republic,NA
+CAN,Canada,4.56
+CHE,Switzerland,5.33
+CHL,Chile,5
+CHN,China,4.33
+CIV,Cote d'Ivoire,4.88
+CMR,Cameroon,4
+COD,Congo. the Democratic Republic o,4.43
+COG,Congo,7.33
+COL,Colombia,3.56
+COM,Comoros,NA
+CPV,Cape Verde,5.57
+CRI,Costa Rica,5.22
+CUB,Cuba,3.83
+CYP,Cyprus,5.38
+CZE,Czech Republic,4.33
+DEU,Germany,5.67
+DJI,Djibouti,6.67
+DMA,Dominica,4.29
+DNK,Denmark,4.89
+DOM,Dominican Republic,5
+DZA,Algeria,4.38
+ECU,Ecuador,4.56
+EGY,Egypt,6.67
+ERI,Eritrea,NA
+ESP,Spain,4.67
+EST,Estonia,4.89
+ETH,Ethiopia,3.22
+FIN,Finland,4.22
+FJI,Fiji,6
+FRA,France,4.78
+FSM,Micronesia. Federated States of,NA
+GAB,Gabon,NA
+GBR,United Kingdom,4.89
+GEO,Georgia,5.22
+GHA,Ghana,5.25
+GIN,Guinea,4.75
+GMB,Gambia,7
+GNB,Guinea-Bissau,6
+GNQ,Equatorial Guinea,NA
+GRC,Greece,5
+GRD,Grenada,5.17
+GTM,Guatemala,4.89
+GUY,Guyana,5.29
+HND,Honduras,5.33
+HRV,Croatia,4.78
+HTI,Haiti,4.38
+HUN,Hungary,5.5
+IDN,Indonesia,2.89
+IND,India,5.56
+IRL,Ireland,5.22
+IRN,Iran. Islamic Republic of,5.86
+IRQ,Iraq,5.75
+ISL,Iceland,4.67
+ISR,Israel,6.63
+ITA,Italy,4.89
+JAM,Jamaica,5.75
+JOR,Jordan,8.22
+JPN,Japan,4.56
+KAZ,Kazakhstan,4.33
+KEN,Kenya,6.33
+KGZ,Kyrgyzstan,5.89
+KHM,Cambodia,4.67
+KIR,Kiribati,NA
+KNA,Saint Kitts and Nevis,4.29
+KOR,Korea. Republic of,5.44
+KWT,Kuwait,7.57
+LAO,Lao People's Democratic Republic,3.14
+LBN,Lebanon,7.71
+LBR,Liberia,6.89
+LBY,Libyan Arab Jamahiriya,4.83
+LCA,Saint Lucia,4.57
+LIE,Liechtenstein,NA
+LKA,Sri Lanka,5.33
+LSO,Lesotho,6
+LTU,Lithuania,5.75
+LUX,Luxembourg,6.78
+LVA,Latvia,5.75
+MAR,Morocco,4.88
+MCO,Monaco,NA
+MDA,Moldova. Republic of,5.56
+MDG,Madagascar,2.43
+MDV,Maldives,6.14
+MEX,Mexico,4.33
+MHL,Marshall Islands,NA
+MKD,Macedonia,5.43
+MLI,Mali,5.13
+MLT,Malta,6
+MNE,Montenegro,6.71
+MNG,Mongolia,4.33
+MO,Macau,5.5
+MOZ,Mozambique,5.71
+MRT,Mauritania,7.86
+MUS,Mauritius,6.13
+MWI,Malawi,4
+MYS,Malaysia,6.56
+NAM,Namibia,5.88
+NER,Niger,5.86
+NGA,Nigeria,4.44
+NIC,Nicaragua,5.56
+NLD,Netherlands,6.89
+NOR,Norway,4.78
+NPL,Nepal,4.89
+NZL,New Zealand,5.13
+OMN,Oman,6
+PAK,Pakistan,5.25
+PAN,Panama,5.78
+PER,Peru,3.89
+PHL,Philippines,4.33
+PLW,Palau,NA
+PNG,Papua New Guinea,4.67
+POL,Poland,4.22
+PRK,Korea. Democratic People's Republic of,NA
+PRT,Portugal,5.89
+PRY,Paraguay,4.56
+PS,Palestine,4.33
+QAT,Qatar,NA
+ROU,Romania,4.89
+RUS,Russian Federation,3.44
+RWA,Rwanda,4.33
+SAU,Saudi Arabia,6
+SDN,Sudan,6.57
+SEN,Senegal,5.75
+SGP,Singapore,6
+SLB,Solomon Islands,5.43
+SLE,Sierra Leone,5.14
+SLV,El Salvador,6
+SMR,San Marino,NA
+SOM,Somalia,NA
+SRB,Serbia,5.17
+STP,Sao Tome and Principe,4.17
+SUR,Suriname,3.5
+SVK,Slovakia,5.63
+SVN,Slovenia,5.5
+SWE,Sweden,4.56
+SWZ,Swaziland,6.44
+SYC,Seychelles,5.67
+SYR,Syrian Arab Republic,6.14
+TCD,Chad,5.67
+TGO,Togo,6.38
+THA,Thailand,5.89
+TJK,Tajikistan,6.33
+TKM,Turkmenistan,NA
+TLS,Timor-Leste,3.33
+TON,Tonga,3.86
+TTO,Trinidad and Tobago,4
+TUN,Tunisia,5.56
+TUR,Turkey,4.33
+TZA,United Republic of Tanzania,4.67
+UGA,Uganda,5.56
+UKR,Ukraine,4.78
+URY,Uruguay,3.78
+USA,United States,4.11
+UZB,Uzbekistan,4.83
+VCT,Saint Vincent and the Grenadines,4.57
+VEN,Venezuela,4.33
+VNM,Viet Nam,5
+VUT,Vanuatu,5.38
+YEM,Yemen,5.67
+ZAF,South Africa,5.44
+ZMB,Zambia,3.88
+ZWE,Zimbabwe,5.5
